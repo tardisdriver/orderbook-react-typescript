@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Order Book example in React/Typescript  
+
+This is an example order book like you would see on a financial trading application. The streaming data comes from a webworker. This was part of a coding challenge where some of the files were provided before hand.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
